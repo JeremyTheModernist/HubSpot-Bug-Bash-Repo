@@ -16,7 +16,7 @@ const Extension = () => {
         imageName='building'
       >
         <Text>
-          Add a layer of amazingly cool UI customization to your app by including app cards that can display data, allow users to perform actions, and more.
+          Add a layer of amazing cool UI customization to your app by including app cards that can display data, allow users to perform actions, and more.
           Visit the <Link href={appCardDocsLink}>app card documentation</Link> for more info, or check out the following links to get inspired:
         </Text>
         <List variant="unordered-styled">
